@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dju6ndtjeqvbi"
+path="res://.godot/imported/Fnaf Nose honk.mp3-573a751c46f9c02d0ed457d8f9864b21.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/office/Fnaf Nose honk.mp3"
+dest_files=["res://.godot/imported/Fnaf Nose honk.mp3-573a751c46f9c02d0ed457d8f9864b21.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Fnaf"
-run/main_scene="uid://dq034ghp6y4ls"
+run/main_scene="uid://bmeuceiap3ed7"
 config/features=PackedStringArray("4.4", "Mobile")
 config/icon="res://icon.svg"
 
